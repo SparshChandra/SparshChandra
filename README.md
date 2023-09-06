@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sparsh Chandra</h1>
+<h1 align="center">Hi 👋, I'm Sparsh Chandra, CSM®</h1>
 <h3 align="center">I am an ambitious and dedicated Certified Scrum Master and Data Analyst with a proven track record. I graduated with a Master's degree in Information Systems from the esteemed Stevens Institute of Technology, achieving a remarkable 3.98 GPA.</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
