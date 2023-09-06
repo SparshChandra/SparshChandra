@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and Machine Learning
 - 🌱 I’m currently learning Deluge Scripting and Advance Data Science Modelling
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me - schand5@stevens.edu
+- 📫 How to reach me - schand5@stevens.edu sparshchandra5@gmail.com
 
 <!---
 SparshChandra/SparshChandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
