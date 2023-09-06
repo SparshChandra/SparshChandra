@@ -1,4 +1,4 @@
-![logo](https://github.com/SparshChandra/SparshChandra/blob/main/Blue%20And%20Yellow%20%20Minimalist%20International%20Podcast%20Day%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sparsh Chandra, CSM®</h1>
 <h3 align="center">I am an ambitious and dedicated Certified Scrum Master and Data Analyst with a proven track record. I graduated with a Master's degree in Information Systems from the esteemed Stevens Institute of Technology, achieving a remarkable 3.98 GPA.</h3>
 
